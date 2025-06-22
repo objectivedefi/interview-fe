@@ -1,0 +1,36 @@
+{
+    "prices": [
+        {
+            "timestamp": 1749500000,
+            "price": 100
+        },
+        {
+            "timestamp": 1749510000,
+            "price": 101
+        },
+        {
+            "timestamp": 1749520000,
+            "price": 102
+        },
+        {
+            "timestamp": 1749530000,
+            "price": 103
+        },
+        {
+            "timestamp": 1749540000,
+            "price": 104
+        },
+        {
+            "timestamp": 1749550000,
+            "price": 105
+        },
+        {
+            "timestamp": 1749560000,
+            "price": 106
+        },
+        {
+            "timestamp": 1749570000,
+            "price": 107
+        }
+    ]
+}

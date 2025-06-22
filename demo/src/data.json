@@ -1,0 +1,194 @@
+[
+  {
+    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "chainId": 1,
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.smold.app/api/token/1/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo-128.png"
+  },
+  {
+    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "chainId": 1,
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://assets.smold.app/api/token/1/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo-128.png"
+  },
+  {
+    "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "chainId": 1,
+    "name": "Tether USD",   
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://assets.smold.app/api/token/1/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo-128.png"
+  },
+  {
+    "address": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
+    "chainId": 1,
+    "name": "USDS Stablecoin",
+    "symbol": "USDS",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33039.png"
+  },
+  {
+    "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "chainId": 1,
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.smold.app/api/token/1/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo-128.png"
+  },
+  {
+    "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+    "chainId": 1,
+    "name": "Coinbase Wrapped BTC",
+    "symbol": "cbBTC",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/40143/small/cbbtc.webp?1726136727g"
+  },
+  {
+    "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+    "chainId": 1,
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "https://assets.smold.app/api/token/1/0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0/logo-128.png"
+  },
+  {
+    "address": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+    "chainId": 1,
+    "name": "Wrapped eETH",
+    "symbol": "weETH",
+    "decimals": 18,
+    "logoURI": "https://assets.smold.app/api/token/1/0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee/logo-128.png"
+  },
+  {
+    "address": "0xDcEe70654261AF21C44c093C300eD3Bb97b78192",
+    "chainId": 1,
+    "name": "Wrapped OETH",
+    "symbol": "WOETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Instadapp/assets/ad9d95f0b7eb2f88e5e247ccf1e676c32a2fb818/icons/tokens/woeth.svg"
+  },
+  {
+    "address": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
+    "chainId": 1,
+    "name": "Origin Ether",
+    "symbol": "OETH",
+    "decimals": 18,
+    "logoURI": "https://assets.smold.app/api/token/1/0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3/logo-128.png"
+  },
+  {
+    "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
+    "chainId": 1,
+    "name": "Staked USDA",
+    "symbol": "stUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34509/large/stUSD_copie.png?1705288386"
+  },
+  {
+    "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+    "chainId": 1,
+    "name": "USDA",
+    "symbol": "USDA",
+    "decimals": 18,
+    "logoURI": "https://assets.smold.app/api/token/1/0x0000206329b97DB379d5E1Bf586BbDB969C63274/logo-128.png"
+  },
+  {
+    "address": "0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD",
+    "chainId": 1,
+    "name": "Savings USDS",
+    "symbol": "sUSDS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/marsfoundation/spark-docs/9b2ece7f8d6d1575549a88bb78654fe68707156f/.gitbook/assets/sUSDS-Coin.svg"
+  },
+  {
+    "address": "0x83F20F44975D03b1b09e64809B757c47f942BEeA",
+    "chainId": 1,
+    "name": "Savings Dai",
+    "symbol": "sDAI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Instadapp/assets/ad9d95f0b7eb2f88e5e247ccf1e676c32a2fb818/icons/tokens/sdai.svg"
+  },
+  {
+    "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+    "chainId": 1,
+    "name": "Maker",
+    "symbol": "MKR",
+    "decimals": 18,
+    "logoURI": "https://assets.smold.app/api/token/1/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo-128.png"
+  },
+  {
+    "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "chainId": 1,
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://assets.smold.app/api/token/1/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo-128.png"
+  },
+  {
+    "address": "0x111111111117dC0aa78b770fA6A738034120C302",
+    "chainId": 1,
+    "name": "1INCH Token",
+    "symbol": "1INCH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Instadapp/assets/ad9d95f0b7eb2f88e5e247ccf1e676c32a2fb818/icons/tokens/1inch.svg"
+  },
+  {
+    "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+    "chainId": 1,
+    "name": "Aave Token",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "logoURI": "https://assets.smold.app/api/token/1/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo-128.png"
+  },
+  {
+    "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+    "chainId": 1,
+    "name": "EURA (previously agEUR)",
+    "symbol": "EURA",
+    "decimals": 18,
+    "logoURI": "https://assets.smold.app/api/token/1/0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8/logo-128.png"
+  },
+  {
+    "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+    "chainId": 1,
+    "name": "Balancer",
+    "symbol": "BAL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Instadapp/assets/ad9d95f0b7eb2f88e5e247ccf1e676c32a2fb818/icons/tokens/bal.svg"
+  },
+  {
+    "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+    "chainId": 1,
+    "name": "Curve DAO Token",
+    "symbol": "CRV",
+    "decimals": 18,
+    "logoURI": "https://assets.smold.app/api/token/1/0xD533a949740bb3306d119CC777fa900bA034cd52/logo-128.png"
+  },
+  {
+    "address": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
+    "chainId": 1,
+    "name": "Curve.Fi USD Stablecoin",
+    "symbol": "crvUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.smold.app/api/token/1/0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E/logo-128.png"
+  },
+  {
+    "address": "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B",
+    "chainId": 1,
+    "name": "Convex Token",
+    "symbol": "CVX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Instadapp/assets/ad9d95f0b7eb2f88e5e247ccf1e676c32a2fb818/icons/tokens/cvx.svg"
+  },
+  {
+    "address": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+    "chainId": 1,
+    "name": "Ethereum Name Service",
+    "symbol": "ENS",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0xc18360217d8f7ab5e7c516566761ea12ce7f9d72.png"
+  }
+]
